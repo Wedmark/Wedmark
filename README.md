@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring CyberSecurity Engineer
 -------------------------------
 
-I have been slowly but steadily starting to work my way into IT and CyberSecurity. Currently, on the path to getting better at coding and get a better understanding of networks and how to protect them.
+I have been slowly but steadily starting to work my way into IT and CyberSecurity. 
+Currently, on the path to getting better at coding and get a better understanding of networks and how to protect them.
 
 * 🌍  I'm based in Uddevalla, Sweden
 * 🖥️  See my portfolio at [GitHub](http://https://github.com/Wedmark)

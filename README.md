@@ -9,7 +9,7 @@ I have been slowly but steadily starting to work my way into IT and CyberSecurit
 * 🌍  I'm based in Uddevalla, Sweden
 * 🖥️  See my portfolio at [GitHub](http://https://github.com/Wedmark)
 * ✉️  You can contact me at [andreas.wedmark@hotmail.com](mailto:andreas.wedmark@hotmail.com)
-* 🚀  I'm currently working on [Education](http://https://github.com/Wedmark/Education)
+* 🚀  I'm currently working on [Education](https://github.com/Wedmark/pokemon-price-checker)
 * 🧠  I'm learning Networking Devices and Inital Configurtion and Python
 
 ### Skills
